@@ -1,0 +1,29 @@
+git init
+
+git add
+
+git status
+
+git commit (:wq)
+
+git commit -m "cm"
+
+git diff
+
+git branch fonts
+
+git checkout fonts
+
+git checkout -b bugFix
+git branch
+
+
+
+
+
+
+
+
+
+
+
